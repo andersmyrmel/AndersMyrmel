@@ -1,2 +1,3 @@
-#### [One Click Store](https://www.oneclickstore.app/)
-#### [ProductLair](https://www.productlair.com/)
+#### [inpageai.com](https://inpageai.com)
+#### [oneclickstore.app](https://oneclickstore.app)
+#### [productlair.com](https://productlair.com)
